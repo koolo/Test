@@ -6,7 +6,8 @@ This is my test with GitHub.
 - Here is a dash
 @ This is an at sign
 # A Hashtag
-
+	* a tabbed astericks
+ - a spaced dash
 
 
 
